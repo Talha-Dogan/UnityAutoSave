@@ -25,4 +25,4 @@ The script has been compiled; no errors. Here are the added features:
 ### 💾 Settings
 All preferences are saved in `EditorPrefs`; settings are preserved even if you restart Unity.
 
-Translated with DeepL.com (free version)
+<img width="377" height="206" alt="image" src="https://github.com/user-attachments/assets/6cc14c88-1b38-4350-9fa1-8c20c2175639" />
